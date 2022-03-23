@@ -7,12 +7,12 @@ System users types:
 - Store Worker
 
 ## Main Menu
-![image](https://user-images.githubusercontent.com/59827963/159754387-0c47c5fd-7fa9-4ba5-9a4d-f4443b36033d.png)
+![welcome](https://user-images.githubusercontent.com/59827963/159763418-27dc5f0f-bef1-4926-9182-3cc7c9315e5d.png)    
 The menu navigates each employee to his part of the system.
 Each employee should press the button with his job written on it and a login window will pop.
 
 ## Login Page
-![image](https://user-images.githubusercontent.com/59827963/159757281-be3485d5-1def-4c3a-b6d4-1b19a3e4d439.png)
+![login](https://user-images.githubusercontent.com/59827963/159763581-ee6b29a5-2442-4300-97bb-e27e2531af33.png)   
 In order to login the employee has to enter his employee number.
 The system checks if the employee number is valid and if the user clicked on the right job type.
 
